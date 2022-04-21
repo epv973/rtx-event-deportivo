@@ -27,6 +27,7 @@ int main(){
 
 	printf("Poder pagar con Paypal\n");
 	printf("Cambio msj934 de Pagar con paypal\n");
-
+	
+	printf("Inicio de Pagar con transferencia\n");
  return 0;
 }
