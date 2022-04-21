@@ -22,7 +22,11 @@ int main(){
     printf("Acabando con Paypal\n");
     
     printf("Inicio Pagar con Paypal\n");
+
 	printf("Cambio msj934\n");
+
+	printf("Poder pagar con Paypal\n");
+	printf("Cambio msj934 de Pagar con paypal\n");
 
  return 0;
 }
