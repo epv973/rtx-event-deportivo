@@ -10,5 +10,7 @@ int main(){
 
     printf("Contratos\n");
 
+    printf("Acabando contratos\n");
+
  return 0;
 }
