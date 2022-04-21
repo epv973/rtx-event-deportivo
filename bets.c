@@ -10,6 +10,7 @@ int main(){
 
     printf("Contratos\n");
     printf("Contratos con diferentes bancos\n");
+    printf("Bancos 2\n");
 
  return 0;
 }
