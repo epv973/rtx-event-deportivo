@@ -15,6 +15,9 @@ int main(){
     printf("Acabando contratos\n");
 
     printf("Inicio Paypal\n");
+        printf("Contrato con Paypal\n");
+        printf("Paypal 2\n");
+
 
     printf("Acabando con Paypal\n");
 
