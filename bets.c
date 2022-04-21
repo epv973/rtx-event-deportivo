@@ -30,5 +30,6 @@ int main(){
 	
 	printf("Inicio de Pagar con transferencia\n");
 	printf("Poder pagar con transferencia\n");
+	printf("Cambio msj934\n");
  return 0;
 }
