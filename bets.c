@@ -20,6 +20,8 @@ int main(){
 
 
     printf("Acabando con Paypal\n");
+    
+    printf("Inicio Pagar con Paypal\n");
 
 
  return 0;
