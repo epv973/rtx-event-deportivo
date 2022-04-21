@@ -9,6 +9,8 @@ int main(){
 	printf("Arreglo Issue Pagar con Tarjeta");
 
     printf("Contratos\n");
+    printf("Contratos con diferentes bancos\n");
+    printf("Bancos 2\n");
 
     printf("Acabando contratos\n");
 
