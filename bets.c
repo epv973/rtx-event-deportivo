@@ -3,5 +3,6 @@
 
 int main(){
 	printf("Pagar con Tarjeta");
+	printf("Arreglo Issue Pagar con Tarjeta");
  return 0;
 }
