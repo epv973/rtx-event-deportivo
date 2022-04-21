@@ -16,6 +16,8 @@ int main(){
 
     printf("Inicio Paypal\n");
         printf("Contrato con Paypal\n");
+        printf("Paypal 2\n");
+
 
  return 0;
 }
